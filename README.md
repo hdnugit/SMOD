@@ -1,4 +1,3 @@
-# SMOD
 <div align="center">
 
 <h1>Leveraging Dark Knowledge for Intrinsic Multimodal Out-of-Distribution Detection</h1>
