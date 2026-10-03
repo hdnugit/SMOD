@@ -282,11 +282,13 @@ python eval_video_flow_near_ood.py --postprocessor msp --appen 'baseCEall_Allmod
 If you find our work useful in your research please consider citing our paper:
 
 ```
-@article{smod,
-	author   = {},
-	title    = {{Leveraging Dark Knowledge for Intrinsic Multimodal Out-of-Distribution Detection}},
-    journal  = {arXiv preprint arXiv:},
-	year     = {2025},
+@inproceedings{udayangani2026leveraging,
+  title={Leveraging Dark Knowledge for Intrinsic Multimodal Out-of-Distribution Detection},
+  author={Udayangani, Nimeshika and Erfani, Sarah and Leckie, Christopher},
+  booktitle={European Conference on Computer Vision},
+  pages={55--72},
+  year={2026},
+  organization={Springer}
 }
 ```
 
